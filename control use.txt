@@ -1,0 +1,6 @@
+Data = “next” – – > Action = Ctrl+PgDn
+Data = “previous” – – > Action = Ctrl+PgUp
+Data = “down” – – > Action = Down Arrow
+Data = “up” – – > Action = Up Arrow
+Data = “change” – – > Action = Alt+Tab
+data="Shut Down"----> Action= Alt+F4+ Enter
